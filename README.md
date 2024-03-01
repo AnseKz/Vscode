@@ -7,7 +7,7 @@
 </head>
 
 
-<!-- código omitido -->
+<!-- codigo omitido -->
 <body>
 
 
